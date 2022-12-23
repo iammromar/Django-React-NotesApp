@@ -2,7 +2,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone https://github.com/front1end/Django-React-NotesApp.git
 
 ```
 
